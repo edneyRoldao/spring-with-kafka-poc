@@ -1,0 +1,12 @@
+spring:
+  kafka:
+    bootstrap-servers: localhost:9092
+app:
+  topic:
+    first:
+      name: myFirstTopicName
+      group: group-id
+    second:
+      name: mySecondTopicName
+      group: group-id
+

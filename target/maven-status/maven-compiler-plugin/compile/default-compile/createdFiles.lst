@@ -1,5 +1,0 @@
-com/edntisolutions/kafkademo/config/KafkaConfig.class
-com/edntisolutions/kafkademo/service/ConsumeMessageService.class
-com/edntisolutions/kafkademo/KafkaDemoApplication.class
-com/edntisolutions/kafkademo/api/ProducerController.class
-com/edntisolutions/kafkademo/service/ProduceMessageService.class

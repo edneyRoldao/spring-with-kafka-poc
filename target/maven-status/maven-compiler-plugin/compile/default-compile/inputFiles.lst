@@ -1,5 +1,0 @@
-/home/edneyroldao/workspace/personal/java-projects/spring-with-kafka-poc/src/main/java/com/edntisolutions/kafkademo/service/ConsumeMessageService.java
-/home/edneyroldao/workspace/personal/java-projects/spring-with-kafka-poc/src/main/java/com/edntisolutions/kafkademo/service/ProduceMessageService.java
-/home/edneyroldao/workspace/personal/java-projects/spring-with-kafka-poc/src/main/java/com/edntisolutions/kafkademo/api/ProducerController.java
-/home/edneyroldao/workspace/personal/java-projects/spring-with-kafka-poc/src/main/java/com/edntisolutions/kafkademo/config/KafkaConfig.java
-/home/edneyroldao/workspace/personal/java-projects/spring-with-kafka-poc/src/main/java/com/edntisolutions/kafkademo/KafkaDemoApplication.java
